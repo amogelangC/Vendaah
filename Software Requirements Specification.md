@@ -61,9 +61,14 @@ Vendaah is a web-based platform that aims to:
 
 #### Backend:
 - Cloud-based infrastructure (e.g., Azure) with a scalable database (e.g., PostgreSQL) and Python with a suitable web framework (e.g., Django).
+- For more information, you can refer to these:
+  - Cloud-based infrastructure: [Azure](https://azure.microsoft.com/en-us/)
+  - Scalable database: [PostgreSQL](https://www.postgresql.org/docs/)
+  - Web framework: [Django](https://www.djangoproject.com/)
 
 #### Frontend:
 - Developed using modern JavaScript Library (e.g., React).
+- For more details, you can refer to the [official React documentation](https://reactjs.org/docs/getting-started.html).
 
 ### 2.5 Design and Implementation Constraints
 
